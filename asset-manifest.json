@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/episearch-frontend/static/css/main.dd5e317d.css",
+    "main.js": "/episearch-frontend/static/js/main.f6b008cb.js",
+    "index.html": "/episearch-frontend/index.html",
+    "main.dd5e317d.css.map": "/episearch-frontend/static/css/main.dd5e317d.css.map",
+    "main.f6b008cb.js.map": "/episearch-frontend/static/js/main.f6b008cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5e317d.css",
+    "static/js/main.f6b008cb.js"
+  ]
+}
