@@ -15,7 +15,7 @@ const App = () => {
   const [proteinFilter, setProteinFilter] = useState(null);
 
   const fetchRecipes = async () => {
-    let url = `http://localhost:5000/search?q=${query}&page=${page}&size=10`;
+    let url = `https://episearch-backend.onrender.com//search?q=${query}&page=${page}&size=10`;
 
     if (caloriesFilter) {
       url += `&calories_gt=${caloriesFilter}`;
